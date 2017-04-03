@@ -124,3 +124,6 @@ ENV/
 
 # Spark
 rat-results.txt
+
+# Node
+node_modules
